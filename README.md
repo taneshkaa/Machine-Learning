@@ -1,10 +1,47 @@
-# Machine-Learning
+# 🤖 Machine Learning Projects
 
-**Predictions using Supervised Machine Learning -:**
+This repository includes two key Machine Learning mini-projects:
 
-Using Spervised Machine Learning Algorithms to Predict Student's Grades (Local Dataset), if He/She studies for n number of Hours/Day [9:25, 9:50, 10:00, 10:10]. Applying Linear Regression for predicting Student's Percentage based on the number of Study Hours.
+1. 🎯 **Supervised Learning** – Predicting student scores using **Linear Regression**
+2. 🌸 **Unsupervised Learning** – Clustering the Iris dataset using **KMeans**
 
+---
 
-**Predictions using Unsupervised Machine Learning-:**
+## 1️⃣ Supervised Learning – Predict Student Grades
 
-For the Iris Dataset Predictions are done using Unsupervised Machine Learning. KMeans Clusering is applied over IRIS Dataset, Analysis and Modelling of Dataset in order to get the Accuracies of different Models.
+### 📌 Objective
+
+Use **Linear Regression** to predict a student’s percentage score based on the number of hours studied per day.
+
+### 📁 Dataset
+
+- **Source**: Local CSV file (e.g., `student_scores.csv`)
+- Format: CSV
+
+### 🛠️ Tools Used
+
+- Python: `pandas`, `matplotlib`, `scikit-learn`, `seaborn`
+- Jupyter Notebook
+
+---
+
+## 2️⃣ Unsupervised Learning – Iris Dataset Clustering
+
+### 📌 Objective
+
+Cluster the **Iris dataset** using **KMeans Clustering** to identify flower species.
+
+### 📁 Dataset
+
+- **Source**: Iris Dataset
+- Format: CSV
+- Sepal Length, Sepal Width, Petal Length, Petal Width
+
+### 🛠️ Tools Used
+
+- Python: `pandas`, `matplotlib`, `seaborn`, `sklearn`, `plotly`
+- Jupyter Notebook
+
+---
+
+## 
